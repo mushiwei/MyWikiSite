@@ -6,7 +6,7 @@
 <img alt="404lab" class="Badges" src="https://picgo-1259617372.cos.ap-beijing.myqcloud.com/Picgo/202109051019063.svg"/>
 </a> <a href="https://mp.weixin.qq.com/s/ytNsiyIjCb-URVLY90uSMw">
 <img alt="404lab" class="Badges" src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-38,506%E4%BA%BA-blue/?labelColor=f5f5f5&logo=wechat"/>
-</a> <a href="https://www.zhihu.com/people/li-kang-ning">
+</a>   <a href="https://www.zhihu.com/people/li-kang-ning">
 
  <img alt="404lab" class="Badges" src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E%E6%94%B6%E8%97%8F-54,547%E6%AC%A1-blue/?logo=zhihu&labelColor=e6f7ff&color=blue"/>
 
